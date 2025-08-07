@@ -1,2 +1,3 @@
-# decision-balance-sheet
-Decision Balance Sheet edit request from a mental health provider
+# Decision Sheet Generator
+
+This project provides a decision sheet generator to help in decision-making processes.
