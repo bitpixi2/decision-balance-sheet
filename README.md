@@ -1,3 +1,3 @@
-# Decision Sheet Generator
+# Current README Content
 
-This project provides a decision sheet generator to help in decision-making processes.
+This is the updated README.md file content. Please replace this with the actual content you wish to keep.
